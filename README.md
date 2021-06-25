@@ -1,6 +1,6 @@
 # Wowchemy's Online Course Template for Hugo
 
-The **Online Course Template** empowers you easily create an online course or coaching business with our customizable yet simple all-in-one [**Wowchemy Website Builder**](https://wowchemy.com/) for [Hugo](https://github.com/gohugoio/hugo).
+The **Online Course Template** empowers you easily create an online course or coaching business with our customizable yet simple all-in-one [**English Website Builder**](https://wowchemy.com/) for [Hugo](https://github.com/gohugoio/hugo).
 
 [Check out the latest demo](https://hugo-online-course.netlify.app/) of what you'll get in less than 10 minutes, or [view the showcase](https://wowchemy.com/user-stories/).
 
