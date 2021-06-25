@@ -2,7 +2,7 @@
 widget: portfolio
 headless: true
 weight: 30
-title: Explore top courses
+title: To our courses
 subtitle:
 content:
   page_type: book
