@@ -2,7 +2,7 @@
 widget: portfolio
 headless: true
 weight: 30
-title: To our courses
+title: 進入課程
 subtitle:
 content:
   page_type: book
