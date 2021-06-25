@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: 李老師
 
 # Is this the primary user of the site?
 superuser: true
