@@ -1,7 +1,7 @@
 ---
-title: 📊 Learn oral grammar convensation
+title: 📊 聽說讀寫
 linkTitle: Data English
-summary: An example of using side by side Book layout for publishing online courses.
+summary: 課本 side by side
 date: '2021-01-24'
 type: book
 ---
