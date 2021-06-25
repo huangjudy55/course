@@ -1,7 +1,7 @@
 ---
 title: 📊 Learn oral grammar convensation
-linkTitle: Data Science
-summary: An example of using Wowchemy's Book layout for publishing online courses.
+linkTitle: Data English
+summary: An example of using side by side Book layout for publishing online courses.
 date: '2021-01-24'
 type: book
 ---
