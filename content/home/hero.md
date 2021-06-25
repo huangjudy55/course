@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: English Online Course 
+title: 線上英文課程
 hero_media: student.svg
 design:
   background:
