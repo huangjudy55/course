@@ -4,7 +4,7 @@ headless: true
 weight: 20
 title: Features
 subtitle: ✨ Teach _anything_ with
-feature:
+English:
   - icon: chalkboard-teacher
     icon_pack: fas
     name: Slides
