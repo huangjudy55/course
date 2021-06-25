@@ -3,7 +3,7 @@ widget: featurette
 headless: true
 weight: 20
 title: Features
-subtitle: ✨ Teach _anything_ with
+subtitle: ✨ Teach English
 English:
   - icon: chalkboard-teacher
     icon_pack: fas
