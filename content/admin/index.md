@@ -1,6 +1,6 @@
 ---
 # Generate Wowchemy CMS
-type: wowchemycms
+type: 線上英文
 outputs:
 - wowchemycms_config
 - HTML
