@@ -1,5 +1,5 @@
 ---
-title: Ready to start?
+title: 準備好了嗎?
 subtitle:
 widget: blank
 weight: 50
